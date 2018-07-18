@@ -1,1 +1,27 @@
-/* add CSS class and element and selectors here */
+body {
+      /*background-color: #FFAEFF;*/
+      font-size: 150%;
+      background-image: url(https://media.giphy.com/media/qPat65afGM17a/giphy.gif);
+    }
+    
+    /*h1 {*/
+    /*  color: yellow;*/
+    /*}*/
+    
+    h2 {
+      color: purple;
+      background-color: white;
+    }
+
+  .info-section {
+    font-size: 70%;
+    color: blue;
+    font-family: 'Indie Flower';
+    border: 4px dotted purple ;
+    background: white;
+  }
+
+  #title-section {
+    color: yellow;
+    
+  }
